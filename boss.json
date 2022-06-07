@@ -1,0 +1,12 @@
+{
+	"name": "HorseJsonBr",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "src/",
+	"projects": [],
+	"dependencies": {
+		"github.com/HashLoad/horse": "^3.0.0"
+		"github.com/isaquepinheiro/horse": "^master"
+	}
+}
